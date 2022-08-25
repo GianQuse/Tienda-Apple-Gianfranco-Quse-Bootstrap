@@ -84,6 +84,7 @@ footer h3 {
 
 .row {
     align-items: center;
+    justify-content: center;
 }
 
 /* Fin AirPods */
